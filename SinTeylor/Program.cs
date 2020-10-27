@@ -1,5 +1,5 @@
 ﻿using System;
-
+// Задача №21
 namespace SinTeylor
 {
     class Program
